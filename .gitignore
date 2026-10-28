@@ -1,0 +1,8 @@
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib
+.vs/
+l4d2_proc_test.*
